@@ -1,0 +1,37 @@
+h1 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-align: center;
+}
+
+.caja {
+    color: white;
+    display: inline-block;
+    width: 350px;
+    height: 100px;
+    padding: 20px;
+    text-align: center;
+    margin: 40px 50px;
+    /*
+            (top-right-bottom-left)
+    margin: 10px;
+            (top-bottom) (right-left)
+    margin: 10px         20px;
+            (top) (right-left) (bottom)
+    margin: 10px  20px         30px;
+            (top) (right) (bottom) (left)
+    margin: 10px  20px    30px     40px;
+    */
+}
+
+#primero {
+    background-color: lightseagreen;
+}
+
+#segundo {
+    background-color: fuchsia;
+}
+
+#tercero {
+    background-color: navy;
+}

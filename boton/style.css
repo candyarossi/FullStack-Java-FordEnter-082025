@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    margin: 5px auto;
+}
+
+#buscar {
+    background-color: lightgray;
+    border: 1.5px solid rgb(59, 59, 59);
+    padding: 5px 25px;
+    border-radius: 30px;
+}
+
+#mas {
+    background-color: orangered;
+    border: none;
+    border-radius: 50%;
+    color: white;
+    padding: 2px 8px 5px;
+}
+
+#crear {
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    padding: 6px 14px;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.4);
+}
