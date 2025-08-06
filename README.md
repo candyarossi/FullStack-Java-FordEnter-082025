@@ -16,7 +16,8 @@
 - [Práctica: Ejercicio Botón](./boton/)
 - [Práctica: ¡Cambiémonos a Flex!](./cambiemos-flex/)
 
-## Ejercicios EXTRA
+## EXTRAS
 
-- [HTML / CSS](./extras/html-css/actividades.md)
+- [Ejercicios HTML / CSS](./extras/html-css/actividades.md)
     - [Respuestas](./extras/html-css/respuestas/)
+- [Guía Git / Github](./extras/git-github.md)
