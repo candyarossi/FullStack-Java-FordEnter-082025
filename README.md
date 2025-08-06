@@ -15,3 +15,8 @@
 - [Práctica: Estilo Box Model](./estilo-box-model/)
 - [Práctica: Ejercicio Botón](./boton/)
 - [Práctica: ¡Cambiémonos a Flex!](./cambiemos-flex/)
+
+## Ejercicios EXTRA
+
+- [HTML / CSS](./extras/html-css/actividades.md)
+    - [Respuestas](./extras/html-css/respuestas/)
