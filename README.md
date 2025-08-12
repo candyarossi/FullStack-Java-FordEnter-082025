@@ -15,6 +15,7 @@
 - [Práctica: Estilo Box Model](./estilo-box-model/)
 - [Práctica: Ejercicio Botón](./boton/)
 - [Práctica: ¡Cambiémonos a Flex!](./cambiemos-flex/)
+- [Práctica: Desafío de Bucles](./desafio-bucles/)
 
 ## EXTRAS
 
