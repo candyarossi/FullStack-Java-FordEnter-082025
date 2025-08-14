@@ -1,21 +1,15 @@
-document.addEventListener("DOMContentLoaded", function () {
+let videos = document.querySelectorAll("video");
 
-    let videos = document.querySelectorAll("video");
+videos.forEach((video) => {
+    // console.dir(video)
+    video.onmouseenter = reproducir;
+    video.addEventListener("mouseleave", pausar)
+});
 
-    function reproducir() {
-        this.play();
-    }
+function reproducir() {
+    this.play();
+}
 
-    function pausar() {
-        this.pause();
-    }
-
-    videos.forEach((video) => {
-        // console.dir(video)
-
-        video.onmouseenter = reproducir;
-
-        video.addEventListener("mouseleave", pausar)
-    });
-})
-
+function pausar() {
+    this.pause();
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+</head>
+
+<body>
+    <nav>
+        <h1>Perfil</h1>
+        <ul>
+            <li>Inicio</li>
+            <li>Mi Perfil</li>
+            <li>Encontrar Conexiones</li>
+            <li><button>Cerrar Sesión</button></li>
+        </ul>
+    </nav>
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div id="banner"></div>
+                <img id="foto" src="./img1.jpg" alt="" />
+                <div class="textos">
+                    <h1 id="nombre">Candela Yarossi</h1>
+                    <p id="ubicacion">Buenos Aires, Argentina</p>
+                    <p id="ocupacion">
+                        Diseñadora Gráfica | Desarrolladora Web | Docente
+                    </p>
+                    <p id="descripcion">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error
+                        amet laboriosam perspiciatis dolores possimus. Tempore corporis
+                        voluptatum id quia in, fuga aut quam sint obcaecati temporibus
+                        culpa ad porro officiis earum nemo! Dignissimos nemo ducimus in
+                        dolor. Alias aperiam ratione sapiente? Dignissimos harum odio
+                        corrupti delectus minima sapiente accusantium esse?
+                    </p>
+                    <button id="edit">&#9998; Edit profile</button>
+                </div>
+            </div>
+            <div class="card">
+                <div class="textos">
+                    <h2>Educación</h2>
+                    <p>
+                        <b>Tecnicatura Universitaria en Programación</b>
+                        <br />
+                        <small>2019 - 2021</small>
+                        <br /><i>Universidad Tecnológica Nacional FRMDP</i>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="textos">
+                    <h2>Solicitudes de Conexión (<span id="contadorSolicitudes">2</span>)</h2>
+                    <ul>
+                        <li>
+                            <img class="imgConexiones"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario 1<button class="sumar">&#x2714;</button><button
+                                class="restar">&#x10102;</button>
+                        </li>
+                        <li>
+                            <img class="imgConexiones"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario 2<button class="sumar">&#x2714;</button><button
+                                class="restar">&#x10102;</button>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card">
+                <div class="textos">
+                    <h2>Tus Conexiones (<span id="contadorConexiones">500</span>)</h2>
+                    <ul>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                        <li>
+                            <img class="imgConectados"
+                                src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png"
+                                alt="" />Nombre de Usuario
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>

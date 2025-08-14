@@ -17,6 +17,7 @@
 - [Práctica: ¡Cambiémonos a Flex!](./cambiemos-flex/)
 - [Práctica: Desafío de Bucles](./desafio-bucles/)
 - [Práctica: Vista Previa de Video](./vista-previa-video/)
+- [Práctica: ¡Hora de hacer conexiones!](./hacer-conexiones/)
 
 ## EXTRAS
 
