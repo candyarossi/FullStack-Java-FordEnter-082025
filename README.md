@@ -22,11 +22,19 @@
 ## EXTRAS
 
 - [Ejercicios HTML / CSS](./extras/html-css/actividades.md)
-    - [Respuestas](./extras/html-css/respuestas/)
+  - [Respuestas](./extras/html-css/respuestas/)
 - [Guía Git / Github](./extras/git-github.md)
 
-## Fundamentos de Java 
+## Fundamentos de Java
+
+### Ayudantías
 
 - [Práctica: Mi Información en Java](./mi-informacion/)
 - [Práctica: Tienda en Línea](./tienda-en-linea/)
 - [Práctica: Mapa de Frutas](./mapa-frutas/)
+- [Práctica: Vehículos y Garages](./vehiculos-garages/)
+
+### Clases
+
+- [Objetos, Atributos y Métodos Constructores, de instancia, getters y setters](./java-clase-3/)
+- [Sobrecarga, this y Atributos Estáticos](./java-clase-4/)
