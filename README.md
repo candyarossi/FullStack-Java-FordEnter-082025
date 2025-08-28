@@ -24,3 +24,9 @@
 - [Ejercicios HTML / CSS](./extras/html-css/actividades.md)
     - [Respuestas](./extras/html-css/respuestas/)
 - [Guía Git / Github](./extras/git-github.md)
+
+## Fundamentos de Java 
+
+- [Práctica: Mi Información en Java](./mi-informacion/)
+- [Práctica: Tienda en Línea](./tienda-en-linea/)
+- [Práctica: Mapa de Frutas](./mapa-frutas/)
