@@ -44,4 +44,12 @@
 
 ## MySQL
 
+### Ayudantías
+
 - [Práctica: Sistema de Restaurantes](./sistema-de-restaurantes/)
+
+## SpringBoot - Java
+
+### Ayudantías
+
+- [Proyecto de Videojuegos](https://github.com/candyarossi/Ejemplo-Ayudantia-Spring-FordEnter-082025)
